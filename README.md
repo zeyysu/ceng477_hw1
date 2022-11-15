@@ -5,4 +5,4 @@ xml to ppm rendering using raytracing\
 to compile:\
 make\
 to run:\
-./raytracer <xml-file>
+./raytracer \<xml-file>
